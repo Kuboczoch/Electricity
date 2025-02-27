@@ -1,0 +1,12 @@
+{
+  "game:tabname-electricity": "Elektryczność",
+  "block-accumulator": "Akumulator",
+  "block-cable-*": "Kabel",
+  "block-motor-*": "Silnik",
+  "block-generator-*": "Generator",
+  "block-switch-*": "Przełącznik",
+  "block-lamp-*": "Lampa elektryczna",
+  "block-lamp_small-*": "Lampa elektryczna (mała)",
+  "block-forge": "Elektryczna kuźnia",
+  "block-heater-*": "Elektryczny grzejnik"
+}
